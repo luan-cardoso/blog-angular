@@ -1,0 +1,15 @@
+.container-main-title{
+    color: white;
+}
+
+.container-main-title > h1{
+    display: flex;
+    justify-content: center;
+
+    margin-bottom: 60px;
+    
+    font-size: 60px;
+    font-family: 'Segoe UI', sans-serif;
+    letter-spacing: 5px;
+}
+
